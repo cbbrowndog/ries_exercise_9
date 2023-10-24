@@ -4,3 +4,6 @@ Includes a print function
 """
 
 print("Hello. This is my simple function.")
+
+print("Goodbye.")
+
