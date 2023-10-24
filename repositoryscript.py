@@ -5,5 +5,5 @@ Includes a print function
 
 print("Hello. This is my simple function.")
 
-print("Goodbye.")
+print("Thank you for creating that. Goodbye.")
 
