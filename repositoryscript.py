@@ -1,0 +1,6 @@
+"""
+A python script to add to my directory of my repository. 
+Includes a print function
+"""
+
+print("Hello. This is my simple function.")
